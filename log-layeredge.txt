@@ -389,3 +389,6 @@
 <!-- a padding to disable MSIE and Chrome friendly error page -->
 
 [15:20:27 | 05-03-2025] 🚨 Failed to start node for 0x203992ba44b220A2A579165a736C1a581CAA41D1: [object Object]
+[19:27:57 | 05-03-2025] Wallet Address: 0x203992ba44b220A2A579165a736C1a581CAA41D1
+[19:27:57 | 05-03-2025] Node Points: 380446
+[19:27:57 | 05-03-2025] Last Claim Point: 05/03/2025 08:19:40
